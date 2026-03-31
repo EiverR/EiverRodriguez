@@ -23,7 +23,7 @@ I am a mathematician primarily interested in discrete dynamical systems, Boolean
 ## Research Snapshot
 
 <figure class="research-figure">
-  <img src="state-space-diagram.png" alt="State-space diagram of a Boolean monomial dynamical system">
+  <img src="state-space-diagram" alt="State-space diagram of a Boolean monomial dynamical system">
   <figcaption>State-space diagram associated with a Boolean monomial dynamical system.</figcaption>
 </figure>
 
