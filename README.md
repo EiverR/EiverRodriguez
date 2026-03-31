@@ -1,20 +1,5 @@
 # Eiver J. Rodríguez Pérez
 
-<p align="center">
-  <img src="assets/img/perfil.jpg" alt="Eiver J. Rodríguez Pérez" width="220">
-</p>
-
-<p align="center">
-  <strong>Mathematician | Researcher in discrete dynamical systems, algebraic combinatorics, and analysis</strong>
-</p>
-
-<p align="center">
-  <a href="CV_Eiver_Rodriguez_Perez.pdf">Download CV</a> |
-  <a href="mailto:eiver.rodriguez@upr.edu">Email</a> |
-  <a href="https://www.linkedin.com/in/eiver-rodriguez/">LinkedIn</a> |
-  <a href="https://www.researchgate.net/profile/Eiver-Rodriguez-Perez?ev=hdr_xprf">ResearchGate</a>
-</p>
-
 ## About
 
 I am a mathematician and researcher whose work lies at the intersection of discrete dynamical systems, algebraic combinatorics, Boolean functions, exponential sums, and mathematical analysis. My current research focuses on recursive exponential sums associated with k-rotation symmetric Boolean functions and related problems in discrete mathematics.
