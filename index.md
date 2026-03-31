@@ -6,7 +6,6 @@ title: Home
 <div class="top-nav">
   <a class="nav-button" href="#about">About</a>
   <a class="nav-button" href="#snapshot">Research Snapshot</a>
-  <a class="nav-button" href="#interests">Research Interests</a>
   <a class="nav-button" href="#publications">Publications</a>
   <a class="nav-button" href="#teaching">Teaching</a>
   <a class="nav-button" href="#contact">Contact</a>
