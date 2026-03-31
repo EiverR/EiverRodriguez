@@ -24,7 +24,6 @@ I am a mathematician primarily interested in discrete dynamical systems, Boolean
 
 <figure class="research-figure">
   <img src="state-space-diagram" alt>
-  <figcaption>State-space diagram associated with a Boolean monomial dynamical system.</figcaption>
 </figure>
 
 
