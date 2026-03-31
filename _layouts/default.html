@@ -6,28 +6,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+    <div class="site-shell">
+      <aside class="sidebar">
+        <h1 class="site-name">
+          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </h1>
 
         {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Profile photo" />
+          <img class="profile-photo" src="{{ site.logo | relative_url }}" alt="Portrait of {{ site.title }}">
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-      </header>
+        <p class="site-tagline">{{ site.description }}</p>
 
-      <section>
+        <p class="sidebar-meta">
+          {{ site.degree }}<br>
+          {{ site.affiliation }}<br>
+          {{ site.location }}
+        </p>
+
+        <nav class="sidebar-links">
+          {% if site.cv_url %}<a href="{{ site.cv_url | relative_url }}">CV (PDF)</a>{% endif %}
+          {% if site.email %}<a href="mailto:{{ site.email }}">Email</a>{% endif %}
+          {% if site.scholar_url %}<a href="{{ site.scholar_url }}">Google Scholar</a>{% endif %}
+          {% if site.orcid_url %}<a href="{{ site.orcid_url }}">ORCID</a>{% endif %}
+          {% if site.researchgate_url %}<a href="{{ site.researchgate_url }}">ResearchGate</a>{% endif %}
+          {% if site.linkedin_url %}<a href="{{ site.linkedin_url }}">LinkedIn</a>{% endif %}
+        </nav>
+      </aside>
+
+      <main class="main-content">
         {{ content }}
-      </section>
+      </main>
     </div>
-
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
   </body>
 </html>
