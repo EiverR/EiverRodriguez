@@ -1,5 +1,3 @@
-# Eiver J. Rodríguez Pérez
-
 ## About
 
 I am a mathematician and researcher whose work lies at the intersection of discrete dynamical systems, algebraic combinatorics, Boolean functions, exponential sums, and mathematical analysis. My current research focuses on recursive exponential sums associated with k-rotation symmetric Boolean functions and related problems in discrete mathematics.
