@@ -3,142 +3,176 @@
 
 @import "{{ site.theme }}";
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif;
+  font-family: "Source Sans 3", Arial, sans-serif;
+  color: #2f2f2f;
+  background: #f8f8f8;
   font-size: 17px;
   line-height: 1.7;
-  color: #2f2f2f;
-  background-color: #ffffff;
 }
 
-.wrapper {
-  width: 1120px;
+.site-shell {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 26px 28px 46px;
+  display: grid;
+  grid-template-columns: 320px minmax(0, 1fr);
+  gap: 56px;
 }
 
-header {
-  text-align: left;
+.sidebar {
+  position: sticky;
+  top: 28px;
+  align-self: start;
 }
 
-header h1,
-section h2,
-section h3 {
-  font-family: "Lora", Georgia, "Times New Roman", serif;
-  color: #1d3557;
+.site-name {
+  margin: 0 0 18px;
+  line-height: 1.05;
+  font-family: "Lora", Georgia, serif;
+  font-size: 2.6rem;
+  font-weight: 700;
 }
 
-header h1 a {
-  color: #1d3557;
+.site-name a {
+  color: #1e3a66;
+  text-decoration: none;
 }
 
-header h1 a:hover {
+.site-name a:hover {
   color: #274c77;
 }
 
 .profile-photo {
-  max-width: 180px;
   width: 100%;
+  max-width: 260px;
   height: auto;
-  border-radius: 10px;
   display: block;
-  margin: 14px 0 16px 0;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
+  border-radius: 12px;
+  margin: 0 0 18px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
 }
 
-.tagline {
-  font-size: 1.02rem;
-  line-height: 1.5;
-  margin-bottom: 14px;
-  color: #5f6368;
+.site-tagline {
+  margin: 0 0 14px;
+  font-size: 1.05rem;
+  color: #606770;
 }
 
 .sidebar-meta {
-  font-size: 0.95rem;
-  line-height: 1.7;
+  margin: 0 0 18px;
   color: #666666;
-  margin-bottom: 14px;
+  font-size: 0.98rem;
 }
 
 .sidebar-links {
-  margin-top: 12px;
-  font-size: 0.98rem;
-  line-height: 1.9;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
-.sidebar-links a,
-a {
+.sidebar-links a {
   color: #1f5f99;
+  text-decoration: none;
   font-weight: 600;
 }
 
-.sidebar-links a:hover,
-a:hover {
+.sidebar-links a:hover {
   color: #163d63;
 }
 
-section h2 {
-  margin-top: 2.3rem;
-  margin-bottom: 0.8rem;
-  padding-bottom: 0.2rem;
-  border-bottom: 1px solid #e5e5e5;
+.main-content {
+  padding-top: 4px;
 }
 
-section h3 {
-  margin-top: 1.2rem;
-  margin-bottom: 0.35rem;
-}
-
-section p,
-section li {
-  font-size: 1rem;
-}
-
-section ul {
-  margin-bottom: 1rem;
-}
-
-strong {
-  color: #202124;
-}
-
-@media screen and (max-width: 960px) {
-  .wrapper {
-    width: auto;
-  }
-}
 .top-nav {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
-  justify-content: center;
-  margin: 0 0 28px 0;
+  gap: 14px;
+  margin: 0 0 34px;
 }
 
 .nav-button {
   display: inline-block;
-  padding: 10px 18px;
-  border-radius: 10px;
-  background: #1d3557;
+  padding: 12px 20px;
+  border-radius: 14px;
+  background: #1e3a66;
   color: #ffffff !important;
   text-decoration: none;
-  font-weight: 600;
-  font-size: 0.95rem;
-  border: 1px solid #1d3557;
-  transition: all 0.2s ease;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  font-weight: 700;
+  font-size: 0.98rem;
+  box-shadow: 0 4px 12px rgba(30, 58, 102, 0.18);
 }
 
 .nav-button:hover {
   background: #274c77;
-  border-color: #274c77;
   color: #ffffff !important;
   transform: translateY(-1px);
 }
 
-.nav-button:visited {
-  color: #ffffff !important;
+.section-anchor {
+  position: relative;
+  top: -10px;
+  visibility: hidden;
 }
 
-.nav-button:focus {
-  outline: 2px solid #90b4ce;
-  outline-offset: 2px;
+.main-content h2 {
+  font-family: "Lora", Georgia, serif;
+  color: #1e3a66;
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 14px;
+}
+
+.main-content h3 {
+  font-family: "Lora", Georgia, serif;
+  color: #243b53;
+  margin-top: 26px;
+  margin-bottom: 6px;
+}
+
+.main-content p,
+.main-content li {
+  font-size: 1.05rem;
+}
+
+.research-figure {
+  margin: 0 0 28px;
+  text-align: center;
+}
+
+.research-figure img {
+  width: 100%;
+  max-width: 620px;
+  height: auto;
+  background: #ffffff;
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.research-figure figcaption {
+  margin-top: 10px;
+  font-style: italic;
+  color: #5f6368;
+}
+
+@media screen and (max-width: 980px) {
+  .site-shell {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+
+  .sidebar {
+    position: static;
+  }
+
+  .profile-photo {
+    max-width: 220px;
+  }
 }
