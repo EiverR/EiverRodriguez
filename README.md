@@ -7,7 +7,7 @@
 ## Research Snapshot
 
 <p align="center">
-  <img src="/state-space-diagram.png" alt="State-space diagram of a Boolean monomial dynamical system" width="520">
+  <img src="/state-space-diagram.png" alt="State-space" width="520">
 </p>
 
 <p align="center"><em>State-space diagram associated with a Boolean monomial dynamical system.</em></p>
