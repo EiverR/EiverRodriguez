@@ -4,9 +4,11 @@
 @import "{{ site.theme }}";
 
 body {
+  font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif;
   font-size: 17px;
   line-height: 1.7;
-  color: #333333;
+  color: #2f2f2f;
+  background-color: #ffffff;
 }
 
 .wrapper {
@@ -17,9 +19,19 @@ header {
   text-align: left;
 }
 
-header h1 {
-  line-height: 1.05;
-  margin-bottom: 0.4rem;
+header h1,
+section h2,
+section h3 {
+  font-family: "Lora", Georgia, "Times New Roman", serif;
+  color: #1d3557;
+}
+
+header h1 a {
+  color: #1d3557;
+}
+
+header h1 a:hover {
+  color: #274c77;
 }
 
 .profile-photo {
@@ -36,6 +48,7 @@ header h1 {
   font-size: 1.02rem;
   line-height: 1.5;
   margin-bottom: 14px;
+  color: #5f6368;
 }
 
 .sidebar-meta {
@@ -51,8 +64,15 @@ header h1 {
   line-height: 1.9;
 }
 
-.sidebar-links a {
+.sidebar-links a,
+a {
+  color: #1f5f99;
   font-weight: 600;
+}
+
+.sidebar-links a:hover,
+a:hover {
+  color: #163d63;
 }
 
 section h2 {
@@ -74,6 +94,10 @@ section li {
 
 section ul {
   margin-bottom: 1rem;
+}
+
+strong {
+  color: #202124;
 }
 
 @media screen and (max-width: 960px) {
