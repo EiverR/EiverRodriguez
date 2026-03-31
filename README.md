@@ -1,24 +1,39 @@
-# EiverRodriguez
-EiverR.github.io/Eiver J. Rodriguez Perez
 # Eiver J. Rodríguez Pérez
 
-## About Me
+<p align="center">
+  <img src="assets/img/perfil.jpg" alt="Eiver J. Rodríguez Pérez" width="220">
+</p>
 
-I am a mathematician and researcher interested in discrete dynamical systems, algebra-combinatorics, Boolean functions, exponential sums, and mathematical analysis. My current work focuses on recursive exponential sums for \(k\)-rotation symmetric Boolean functions and related problems in discrete mathematics.
+<p align="center">
+  <strong>Mathematician | Researcher in discrete dynamical systems, algebraic combinatorics, and analysis</strong>
+</p>
+
+<p align="center">
+  <a href="CV_Eiver_Rodriguez_Perez.pdf">Download CV</a> |
+  <a href="mailto:eiver.rodriguez@upr.edu">Email</a> |
+  <a href="https://www.linkedin.com/in/eiver-rodriguez/">LinkedIn</a> |
+  <a href="https://www.researchgate.net/profile/Eiver-Rodriguez-Perez?ev=hdr_xprf">ResearchGate</a>
+</p>
+
+## About
+
+I am a mathematician and researcher whose work lies at the intersection of discrete dynamical systems, algebraic combinatorics, Boolean functions, exponential sums, and mathematical analysis. My current research focuses on recursive exponential sums associated with k-rotation symmetric Boolean functions and related problems in discrete mathematics.
+
+This site offers a brief overview of my academic background, research interests, teaching experience, and selected scholarly work.
 
 ## Research Interests
 
 - Discrete dynamical systems
 - Boolean functions
 - Exponential sums
-- Algebra-combinatorics
+- Algebraic combinatorics
 - Mathematical analysis
 
 ## Education
 
 **Ph.D. in Pure Mathematics**  
 University of Puerto Rico, Río Piedras Campus  
-Dissertation: *Recursive exponential sums for \(k\)-rotation symmetric Boolean functions*
+Dissertation: *Recursive exponential sums for k-rotation symmetric Boolean functions*
 
 **M.Sc. in Pure Mathematics**  
 University of Puerto Rico, Mayagüez Campus  
@@ -28,48 +43,48 @@ Thesis: *Tiempo de transición para una familia de sistemas dinámicos discretos
 University of Cartagena, Colombia  
 Thesis: *Operadores topológicos de clausura e interior en un topos*
 
-## Selected Publications and Work in Progress
+## Selected Publications and Ongoing Work
 
 **On the composition operator with variable integrability**  
-*AIMS Mathematics*, 2025, 10(2): 2021–2041  
+*AIMS Mathematics*, 2025, 10(2), 2021–2041  
 With Carlos F. Álvarez, Javier Henríquez-Amador, and Jhon Millán G.
 
 **On the Transient of Boolean Monomial Dynamical Systems**  
 Article in preparation  
 With Omar Colón-Reyes, Mario J. Motiño Palma, and Arnaldo Vera
 
-**Closed formula for exponential sums of cubic \(k\)-rotation symmetric Boolean functions**  
+**Closed Formula for Exponential Sums of Cubic k-Rotation Symmetric Boolean Functions**  
 Article in preparation  
 With José Calderón-Gómez, Rodrigo León-Prato, and Luis A. Medina
 
-**The Weight and Nonlinearity Equality for Quartic \(k\)-Rotation Symmetric Boolean Functions**  
+**The Weight and Nonlinearity Equality for Quartic k-Rotation Symmetric Boolean Functions**  
 Article in preparation  
 With Rodrigo León-Prato
 
-**Nonlinearity of cubic \(k\)-rotation symmetric monomial Boolean functions**  
+**Nonlinearity of Cubic k-Rotation Symmetric Monomial Boolean Functions**  
 Article in preparation  
 With José Calderón-Gómez, Rodrigo León-Prato, and Luis A. Medina
 
-## Presentations
+## Selected Presentations
 
-**Recursive exponential sums for \(k\)-rotation symmetric Boolean functions**  
+**Recursive exponential sums for k-rotation symmetric Boolean functions**  
 Departmental Colloquium, University of Puerto Rico, Mayagüez
 
-**Recursive exponential sums for \(k\)-rotation symmetric Boolean functions**  
+**Recursive exponential sums for k-rotation symmetric Boolean functions**  
 Interuniversity Research Seminar in Mathematical Sciences, University of Puerto Rico, Ponce, 2025
 
-**Linear recurrences associated to \(k\)-rotation symmetric Boolean functions**  
+**Linear recurrences associated with k-rotation symmetric Boolean functions**  
 X Coloquio de Matemáticas Aplicadas, Universidad Militar Nueva Granada, Colombia, 2024
 
 **Tiempo de transición para una familia de sistemas dinámicos discretos no lineales**  
-Lunch Talk, UPR Río Piedras, 2023
+Lunch Talk, University of Puerto Rico, Río Piedras, 2023
 
-**Computing the transient for a family of non-linear discrete dynamical systems**  
+**Computing the transient for a family of nonlinear discrete dynamical systems**  
 Interuniversity Research Seminar in Mathematical Sciences, University of Puerto Rico, 2022
 
 ## Teaching Experience
 
-I have served as a teaching assistant and instructor in mathematics courses and enrichment programs, including:
+I have served as a teaching assistant and instructor in mathematics courses and academic enrichment programs, including:
 
 - Basic Mathematics
 - Precalculus I and II
@@ -87,7 +102,7 @@ I have served as a teaching assistant and instructor in mathematics courses and 
 
 - Academic Merit, Universidad de Cartagena, 2017
 - Topology qualifier passed with honors, University of Puerto Rico, Río Piedras, 2022
-- Dissertation, Thesis or Equivalent Project Scholarship, University of Puerto Rico, Río Piedras
+- Dissertation, Thesis, or Equivalent Project Scholarship, University of Puerto Rico, Río Piedras
 
 ## Contact
 
