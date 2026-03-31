@@ -48,12 +48,15 @@ With Carlos F. Álvarez, Javier Henríquez-Amador, and Jhon Millán G.
 ### On the Transient of Boolean Monomial Dynamical Systems
 Submitted.  
 With Omar Colón-Reyes, Mario J. Motiño Palma, and Arnaldo Vera.
+##  Closed formulas for exponential sums of cubic k-rotation symmetric Boolean functions
+Submitted.
+Jos\'e E. Calder\'on-G\'omez, Rodrigo A. Le\'on-Prato, Luis A. Medina
 
 ### Current Projects
 
-- Closed formulas for exponential sums of cubic k-rotation symmetric Boolean functions
 - The weight and nonlinearity of quartic k-rotation symmetric Boolean functions
 - Recursive exponential sums for k-rotation symmetric Boolean functions
+- A Control Theory for Monomial Dynamical Systems over Finite Fields
 
 <div id="teaching" class="section-anchor"></div>
 
