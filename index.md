@@ -16,7 +16,7 @@ title: Home
 
 ## About
 
-I am a mathematician working in discrete dynamical systems, Boolean functions, exponential sums, and algebraic combinatorics. My research focuses on structural and computational questions related to monomial dynamical systems and k-rotation symmetric Boolean functions.
+I am a mathematician primarily interested in discrete dynamical systems, Boolean functions, control theory, and cryptography. My research explores how algebraic and graph-theoretic structures shape the behavior of nonlinear systems. In my work, I have studied transient dynamics in Boolean monomial dynamical systems, stabilizability conditions for monomial control systems, and the nonlinearity of k-rotation-symmetric Boolean functions through Walsh-Hadamard analysis. I have also worked on composition operators on variable-exponent Lebesgue spaces. Although real analysis is not my strongest area, it is a subject I genuinely enjoy.
 
 <div id="snapshot" class="section-anchor"></div>
 
@@ -27,19 +27,11 @@ I am a mathematician working in discrete dynamical systems, Boolean functions, e
   <figcaption>State-space diagram associated with a Boolean monomial dynamical system.</figcaption>
 </figure>
 
-<div id="interests" class="section-anchor"></div>
 
-## Research Interests
-
-- Discrete dynamical systems
-- Boolean functions and Walsh transforms
-- Exponential sums and nonlinearity
-- Algebraic combinatorics
-- Mathematical analysis
 
 <div id="publications" class="section-anchor"></div>
 
-## Selected Publications
+## Publications
 
 ### On the composition operator with variable integrability
 *AIMS Mathematics* **10**(2) (2025), 2021–2041.  
@@ -56,6 +48,7 @@ José E. Caldern-Gómez, Rodrigo A. León-Prato, Luis A. Medina
 - The weight and nonlinearity of quartic k-rotation symmetric Boolean functions
 - Recursive exponential sums for k-rotation symmetric Boolean functions
 - A Control Theory for Monomial Dynamical Systems over Finite Fields
+- On monomial k-dihedral symmetric Boolean functions
 
 <div id="teaching" class="section-anchor"></div>
 
@@ -67,4 +60,4 @@ I have served as instructor and teaching assistant in Basic Mathematics, Precalc
 
 ## Contact
 
-For research collaborations, talks, or teaching opportunities, please use the links in the left sidebar.
+For research collaborations, speaking invitations, or teaching opportunities, please contact me at eiver.rodriguez@upr.edu.
