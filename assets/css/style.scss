@@ -105,3 +105,40 @@ strong {
     width: auto;
   }
 }
+.top-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin: 0 0 28px 0;
+}
+
+.nav-button {
+  display: inline-block;
+  padding: 10px 18px;
+  border-radius: 10px;
+  background: #1d3557;
+  color: #ffffff !important;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  border: 1px solid #1d3557;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.nav-button:hover {
+  background: #274c77;
+  border-color: #274c77;
+  color: #ffffff !important;
+  transform: translateY(-1px);
+}
+
+.nav-button:visited {
+  color: #ffffff !important;
+}
+
+.nav-button:focus {
+  outline: 2px solid #90b4ce;
+  outline-offset: 2px;
+}
