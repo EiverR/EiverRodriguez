@@ -1,9 +1,21 @@
 theme: jekyll-theme-minimal
-title: Eiver Rodríguez
-description: Discrete dynamical systems, Boolean functions, algebra, combinatorics, and real analysis
+title: Eiver J. Rodríguez Pérez
+description: Discrete dynamical systems, Boolean functions, algebraic combinatorics, and analysis
 logo: /perfil.jpeg
+
 degree: Ph.D. in Pure Mathematics
+affiliation: University of Puerto Rico
+location: San Juan, Puerto Rico
 email: eiver.rodriguez@upr.edu
-affiliation: University of Puerto Rico at Mayagüez
-location: Mayagüez, PR
+
+# Quita el símbolo # cuando subas tu PDF
+# cv_url: /CV_Eiver_Rodriguez_Perez.pdf
+
+researchgate_url: https://www.researchgate.net/profile/Eiver-Rodriguez-Perez?ev=hdr_xprf
+linkedin_url: https://www.linkedin.com/in/eiver-rodriguez/
+
+# Añádelos cuando tengas las URLs
+# scholar_url: https://scholar.google.com/...
+# orcid_url: https://orcid.org/...
+
 show_downloads: false
