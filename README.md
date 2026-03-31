@@ -1,9 +1,22 @@
+<div class="top-nav">
+  <a class="nav-button" href="#about">About</a>
+  <a class="nav-button" href="#snapshot">Research Snapshot</a>
+  <a class="nav-button" href="#interests">Research Interests</a>
+  <a class="nav-button" href="#publications">Publications</a>
+  <a class="nav-button" href="#projects">Projects</a>
+  <a class="nav-button" href="#talks">Talks</a>
+  <a class="nav-button" href="#teaching">Teaching</a>
+  <a class="nav-button" href="#contact">Contact</a>
+</div>
+<div id="interests"></div>
+
 ## Research Interests
 
 - Discrete dynamical systems (Trasient, control theory, graph)
 - Boolean functions (Walsh transform, expontial sums, nonlinearity)
 - Mathematical analysis
   
+  <div id="Education"></div>
 ## Education
 
 **Ph.D. in Pure Mathematics**  
@@ -17,7 +30,7 @@ Thesis: *Tiempo de transición para una familia de sistemas dinámicos discretos
 **B.Sc. in Pure Mathematics**  
 University of Cartagena, Colombia  
 Thesis: *Operadores topológicos de clausura e interior en un topos*
-
+<div id="publications"></div>
 ## Selected Publications and Ongoing Work
 
 **On the composition operator with variable integrability**  
@@ -40,6 +53,7 @@ With Rodrigo León-Prato, Daniel Sierra
 Article in preparation: 
 With José Calderón-Gómez, Rodrigo León-Prato, and Luis A. Medina
 
+<div id="Presentation"></div>
 ## Selected Presentations
 
 **Recursive exponential sums for k-rotation symmetric Boolean functions**  
@@ -57,7 +71,9 @@ Lunch Talk, University of Puerto Rico, Río Piedras, 2023
 **Computing the transient for a family of nonlinear discrete dynamical systems**  
 Interuniversity Research Seminar in Mathematical Sciences, University of Puerto Rico, 2022
 
-## Teaching Experience
+<div id="teaching"></div>
+
+## Teaching
 
 I have served as a teaching assistant and instructor in mathematics courses and academic enrichment programs, including:
 
