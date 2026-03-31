@@ -1,7 +1,3 @@
-## About
-
-I am a mathematician and researcher whose work lies at the intersection of discrete dynamical systems, algebraic combinatorics, Boolean functions, exponential sums, and mathematical analysis. My current research focuses on recursive exponential sums associated with k-rotation symmetric Boolean functions and related problems in discrete mathematics.
-
 This site offers a brief overview of my academic background, research interests, teaching experience, and selected scholarly work.
 
 ## Research Interests
