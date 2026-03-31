@@ -1,10 +1,7 @@
-This site offers a brief overview of my academic background, research interests, teaching experience, and selected scholarly work.
-
 ## Research Interests
 
-- Discrete dynamical systems
-- Boolean functions
-- Algebraic combinatorics
+- Discrete dynamical systems (Trasient, control theory, graph)
+- Boolean functions (Walsh transform, expontial sums, nonlinearity)
 - Mathematical analysis
 
 ## Education
@@ -28,19 +25,19 @@ Thesis: *Operadores topológicos de clausura e interior en un topos*
 With Carlos F. Álvarez, Javier Henríquez-Amador, and Jhon Millán G.
 
 **On the Transient of Boolean Monomial Dynamical Systems**  
-Submitted
+Submitted:
 With Omar Colón-Reyes, Mario J. Motiño Palma, and Arnaldo Vera
 
 **Closed Formula for Exponential Sums of Cubic k-Rotation Symmetric Boolean Functions**  
-Submitted
+Submitted:
 With José Calderón-Gómez, Rodrigo León-Prato, and Luis A. Medina
 
 **The Weight and Nonlinearity Equality for Quartic k-Rotation Symmetric Boolean Functions**  
-Article in preparation  
+Article in preparation:  
 With Rodrigo León-Prato, Daniel Sierra
 
 **Nonlinearity of Cubic k-Rotation Symmetric Monomial Boolean Functions**  
-Article in preparation  
+Article in preparation: 
 With José Calderón-Gómez, Rodrigo León-Prato, and Luis A. Medina
 
 ## Selected Presentations
