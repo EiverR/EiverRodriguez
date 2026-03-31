@@ -3,20 +3,81 @@
 
 @import "{{ site.theme }}";
 
-header img {
-  max-width: 180px;
-  width: 100%;
-  height: auto;
-  border-radius: 12px;
-  display: block;
-  margin-top: 12px;
-  margin-bottom: 12px;
+body {
+  font-size: 17px;
+  line-height: 1.7;
+  color: #333333;
+}
+
+.wrapper {
+  width: 1120px;
+}
+
+header {
+  text-align: left;
 }
 
 header h1 {
-  margin-bottom: 8px;
+  line-height: 1.05;
+  margin-bottom: 0.4rem;
 }
 
-header p {
+.profile-photo {
+  max-width: 180px;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+  margin: 14px 0 16px 0;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
+}
+
+.tagline {
+  font-size: 1.02rem;
+  line-height: 1.5;
+  margin-bottom: 14px;
+}
+
+.sidebar-meta {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: #666666;
+  margin-bottom: 14px;
+}
+
+.sidebar-links {
   margin-top: 12px;
+  font-size: 0.98rem;
+  line-height: 1.9;
+}
+
+.sidebar-links a {
+  font-weight: 600;
+}
+
+section h2 {
+  margin-top: 2.3rem;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.2rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+section h3 {
+  margin-top: 1.2rem;
+  margin-bottom: 0.35rem;
+}
+
+section p,
+section li {
+  font-size: 1rem;
+}
+
+section ul {
+  margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 960px) {
+  .wrapper {
+    width: auto;
+  }
 }
