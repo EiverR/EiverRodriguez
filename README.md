@@ -3,13 +3,7 @@
 - Discrete dynamical systems (Trasient, control theory, graph)
 - Boolean functions (Walsh transform, expontial sums, nonlinearity)
 - Mathematical analysis
-
-## Research Snapshot
-
-<p align="center">
-  <img src="state-space-diagram.png" alt="State-space " width="520">
-</p>
-
+  
 ## Education
 
 **Ph.D. in Pure Mathematics**  
