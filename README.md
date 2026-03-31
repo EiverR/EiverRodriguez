@@ -2,17 +2,6 @@
 EiverR.github.io/Eiver J. Rodriguez Perez
 # Eiver J. Rodríguez Pérez
 
-<p align="center">
-  <img src="assets/img/perfil.jpg" alt="Eiver J. Rodríguez Pérez" width="220">
-</p>
-
-<p align="center">
-  <a href="CV_Eiver_Rodriguez_Perez.pdf">Download CV</a> |
-  <a href="mailto:eiver.rodriguez@upr.edu">Email</a> |
-  <a href="https://www.linkedin.com/in/eiver-rodriguez/">LinkedIn</a> |
-  <a href="https://www.researchgate.net/profile/Eiver-Rodriguez-Perez?ev=hdr_xprf">ResearchGate</a>
-</p>
-
 ## About Me
 
 I am a mathematician and researcher interested in discrete dynamical systems, algebra-combinatorics, Boolean functions, exponential sums, and mathematical analysis. My current work focuses on recursive exponential sums for \(k\)-rotation symmetric Boolean functions and related problems in discrete mathematics.
