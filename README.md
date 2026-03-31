@@ -89,6 +89,4 @@ I have served as a teaching assistant and instructor in mathematics courses and 
 ## Contact
 
 **Email:** [eiver.rodriguez@upr.edu](mailto:eiver.rodriguez@upr.edu)  
-**Location:** San Juan, Puerto Rico  
-**LinkedIn:** [eiver-rodriguez](https://www.linkedin.com/in/eiver-rodriguez/)  
-**ResearchGate:** [Eiver Rodríguez](https://www.researchgate.net/profile/Eiver-Rodriguez-Perez?ev=hdr_xprf)
+
