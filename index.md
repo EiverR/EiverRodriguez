@@ -35,12 +35,10 @@ I am a mathematician primarily interested in discrete dynamical systems, Boolean
 *AIMS Mathematics* **10**(2) (2025), 2021–2041.  
 With Carlos F. Álvarez, Javier Henríquez-Amador, and Jhon Millán G.
 
-### On the Transient of Boolean Monomial Dynamical Systems
-Submitted.  
-With Omar Colón-Reyes, Mario J. Motiño Palma, and Arnaldo Vera.
+### Computing the transient  for a family of non linear discrete dynamical systems
+Submitted.With Omar Colón-Reyes, Mario J. Motiño Palma, and Arnaldo Vera.
 ###  Closed formulas for exponential sums of cubic k-rotation symmetric Boolean functions
-Submitted.
-José E. Caldern-Gómez, Rodrigo A. León-Prato, Luis A. Medina
+Submitted.With José E. Caldern-Gómez, Rodrigo A. León-Prato, Luis A. Medina
 ### Current Projects
 
 - The weight and nonlinearity of quartic k-rotation symmetric Boolean functions
