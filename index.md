@@ -33,7 +33,7 @@ I am a mathematician primarily interested in discrete dynamical systems, Boolean
 
 ### On the composition operator with variable integrability
 *AIMS Mathematics* **10**(2) (2025), 2021–2041.  
-With Carlos F. Álvarez, Javier Henríquez-Amador, and Jhon Millán G.
+With Carlos F. Álvarez, Javier Henríquez-Amador, and John Millán G..
 
 ### Computing the transient  for a family of non linear discrete dynamical systems
 Submitted. With Omar Colón-Reyes, Mario J. Motiño Palma, and Arnaldo Vera.
