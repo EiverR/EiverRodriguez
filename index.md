@@ -34,11 +34,11 @@ I am a mathematician primarily interested in discrete dynamical systems, Boolean
 ### On the composition operator with variable integrability
 *AIMS Mathematics* **10**(2) (2025), 2021–2041.  
 With Carlos F. Álvarez, Javier Henríquez-Amador, and John Millán G..
-
+###  Closed formula for exponential sums of cubic k-cycles over Galois fields
+Advances in Mathematics of Communications 25 (2026), 1–20.
+With José E. Calderón-Gómez, Rodrigo A. León-Prato, and Luis A. Medina.
 ### Computing the transient  for a family of non linear discrete dynamical systems
 Submitted. With Omar Colón-Reyes, Mario J. Motiño Palma, and Arnaldo Vera.
-###  Closed formulas for exponential sums of cubic k-rotation symmetric Boolean functions
-Submitted. With José E. Caldern-Gómez, Rodrigo A. León-Prato, Luis A. Medina
 ### Current Projects
 
 - The weight and nonlinearity of quartic k-rotation symmetric Boolean functions
